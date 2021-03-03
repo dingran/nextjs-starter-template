@@ -1,0 +1,6 @@
+- [ ] refactor next-seo in \_app.js
+- [ ] clean up \_document.js
+- [ ] add a fuller mdx example
+- [ ] add stripe integration
+- [ ] handle multiple login provider merging
+- [ ] add example pages of a few different types
